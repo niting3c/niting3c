@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+### Hi there, I'm Nitin  👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
-You can use the [editor on GitHub](https://github.com/niting3c/niting3c/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Twitter Follow](https://img.shields.io/twitter/follow/nitinrkz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=nitinrkz)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## I'm a Software Developer and an Ethical Hacker!
 
-### Markdown
+- I am Currently Working as a Senior Member of technical staff 
+- My current company is Vymo Technologies,Bangalore,India
+- I love to do ethical hacking 
+- preparing myself for red team 
+- Hackthebox user
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### HackTheBox Profile
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[<img src="http://www.hackthebox.eu/badge/image/64053" alt="Hack The Box">](https://www.hackthebox.eu/home/users/profile/64053)
 
-- Bulleted
-- List
+<br/>
+### Connect with me:
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[Link](url) and ![Image](src)
-```
+<br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Languages and Tools:
 
-### Jekyll Themes
+<br />
+<i class="devicon-java-plain-wordmark"></i>
+<i class="devicon-cplusplus-plain-wordmark"></i>
+<i class="devicon-python-plain-wordmark"></i>
+<i class="devicon-docker-plain-wordmark"></i>
+<i class="devicon-mongodb-plain-wordmark"></i>
+<i class="devicon-mysql-plain"></i>
+<br/>
+<i class="devicon-linux-plain"></i>
+<i class="devicon-ubuntu-plain"></i>
+<i class="devicon-debian-plain-wordmark"></i>
+<i class="devicon-pycharm-plain"></i>
+<i class="devicon-oracle-original"></i>
+<i class="devicon-git-plain-wordmark"></i>
+<i class="devicon-github-plain-wordmark"></i>
+<i class="devicon-gradle-plain-wordmark"></i>
+<i class="devicon-intellij-plain-wordmark"></i>
+<i class="devicon-atom-original"></i>
+<i class="devicon-npm-original-wordmark"></i>
+<i class="devicon-slack-plain-wordmark"></i>
+<i class="devicon-bitbucket-plain"></i>
+<i class="devicon-confluence-plain"></i>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niting3c/niting3c/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#59331](https://github.com//MicrosoftDocs/azure-docs/issues/59331) in [MicrosoftDocs/azure-docs](https://github.com//MicrosoftDocs/azure-docs)
+2. 🗣 Commented on [#59331](https://github.com//MicrosoftDocs/azure-docs/issues/59331) in [MicrosoftDocs/azure-docs](https://github.com//MicrosoftDocs/azure-docs)
+3. ❗️ Opened issue [#59331](https://github.com//MicrosoftDocs/azure-docs/issues/59331) in [MicrosoftDocs/azure-docs](https://github.com//MicrosoftDocs/azure-docs)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=niting3c&show_icons=true&hide_border=true" />
+
+</details>
+
+
+[twitter]: https://twitter.com/nitinrkz
+[instagram]: https://instagram.com/niting3c
+[linkedin]: https://linkedin.com/in/niting3c
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]: https://www.facebook.com/niting3c
