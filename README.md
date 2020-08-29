@@ -30,27 +30,27 @@
 ### Languages and Tools:
 
 <br />
-<i class="devicon-java-plain-wordmark"></i>
-<i class="devicon-cplusplus-plain-wordmark"></i>
-<i class="devicon-python-plain-wordmark"></i>
-<i class="devicon-docker-plain-wordmark"></i>
-<i class="devicon-mongodb-plain-wordmark"></i>
-<i class="devicon-mysql-plain"></i>
+<i class="devicon-java-plain-wordmark colored"></i>
+<i class="devicon-cplusplus-plain-wordmark colored"></i>
+<i class="devicon-python-plain-wordmark colored"></i>
+<i class="devicon-docker-plain-wordmark colored"></i>
+<i class="devicon-mongodb-plain-wordmark colored"></i>
+<i class="devicon-mysql-plain colored"></i>
 <br/>
-<i class="devicon-linux-plain"></i>
-<i class="devicon-ubuntu-plain"></i>
-<i class="devicon-debian-plain-wordmark"></i>
-<i class="devicon-pycharm-plain"></i>
-<i class="devicon-oracle-original"></i>
-<i class="devicon-git-plain-wordmark"></i>
-<i class="devicon-github-plain-wordmark"></i>
-<i class="devicon-gradle-plain-wordmark"></i>
-<i class="devicon-intellij-plain-wordmark"></i>
-<i class="devicon-atom-original"></i>
-<i class="devicon-npm-original-wordmark"></i>
-<i class="devicon-slack-plain-wordmark"></i>
-<i class="devicon-bitbucket-plain"></i>
-<i class="devicon-confluence-plain"></i>
+<i class="devicon-linux-plain colored"></i>
+<i class="devicon-ubuntu-plain colored"></i>
+<i class="devicon-debian-plain-wordmark colored"></i>
+<i class="devicon-pycharm-plain colored"></i>
+<i class="devicon-oracle-original  colored"></i>
+<i class="devicon-git-plain-wordmark colored"></i>
+<i class="devicon-github-plain-wordmark colored"></i>
+<i class="devicon-gradle-plain-wordmark colored"></i>
+<i class="devicon-intellij-plain-wordmark colored"></i>
+<i class="devicon-atom-original colored"></i>
+<i class="devicon-npm-original-wordmark colored"></i>
+<i class="devicon-slack-plain-wordmark colored"></i>
+<i class="devicon-bitbucket-plain colored"></i>
+<i class="devicon-confluence-plain colored"></i>
 
 
 ---
