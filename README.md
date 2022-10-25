@@ -1,7 +1,7 @@
 ### Hi there, I'm Nitin  👋
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nitinrkz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=nitinrkz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nitinrkz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=nitin_g_94)
 
 ## I'm a Software Developer and an Ethical Hacker!
 
