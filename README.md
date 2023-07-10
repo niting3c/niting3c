@@ -72,45 +72,7 @@ Accomplished Cybersecurity and Network Security Engineer with over 6 years of ex
 * Interpersonal Skills: Communication
 * Languages: English, Hindi
 
-### Languages and Tools:
-
-<br />
-<i class="devicon-java-plain-wordmark colored"></i>
-<i class="devicon-cplusplus-plain-wordmark colored"></i>
-<i class="devicon-python-plain-wordmark colored"></i>
-<i class="devicon-docker-plain-wordmark colored"></i>
-<i class="devicon-mongodb-plain-wordmark colored"></i>
-<i class="devicon-mysql-plain colored"></i>
-<br/>
-<i class="devicon-linux-plain colored"></i>
-<i class="devicon-ubuntu-plain colored"></i>
-<i class="devicon-debian-plain-wordmark colored"></i>
-<i class="devicon-pycharm-plain colored"></i>
-<i class="devicon-oracle-original  colored"></i>
-<i class="devicon-git-plain-wordmark colored"></i>
-<i class="devicon-github-plain-wordmark colored"></i>
-<i class="devicon-gradle-plain-wordmark colored"></i>
-<i class="devicon-intellij-plain-wordmark colored"></i>
-<i class="devicon-atom-original colored"></i>
-<i class="devicon-npm-original-wordmark colored"></i>
-<i class="devicon-slack-plain-wordmark colored"></i>
-<i class="devicon-bitbucket-plain colored"></i>
-<i class="devicon-confluence-plain colored"></i>
-
-
 ---
-
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#59331](https://github.com/MicrosoftDocs/azure-docs/issues/59331) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🗣 Commented on [#59331](https://github.com/MicrosoftDocs/azure-docs/issues/59331) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. ❗️ Opened issue [#59331](https://github.com/MicrosoftDocs/azure-docs/issues/59331) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
